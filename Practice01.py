@@ -10,3 +10,7 @@
     }
         sizuno = "iya"
         print(sizuno,  "says:",  kimoti[sizuno]   )
+
+    rabits = {usagi1,usagi2,usagi3}
+    for rabit in rabits
+        prinst (rabit)
